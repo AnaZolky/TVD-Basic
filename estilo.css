@@ -1,28 +1,28 @@
-{
-  padding: 0;
-  margin: 0;
-}
 body{
-      background-color: whitesmoke;
-      height: 100vh;
-      display: flex;
-      justify-conten: center;
+      Background-color:black;
+      font-family:beautiful-web-type;
+      color:red;
 }
+h1{
+    font-family:cursive;
+}
+h2{
+    font-family:cursive;
+}
+h3{
+    font-family:cursive;
+}
+p{
+  width: 30px;
+  text-align:center;
+  direction:ltr;
+}
+img{
+    background-size: 20px;
+} 
 button{
-        width:12rem;
-        position:relative;
-        height:4rem;
-        border:3px, solid, indigo;
-        font-family:verdana, geneva, tahoma;
-        text-transform:uppercase;
-        background-color:transparent;
-        color:black;
-        transition: 2s;
-        border-radius:15px;
-        font-size:15px;
-        font-weight:bold;
-        cursor:pointer;
-}
-button:hover{
-              box-shadow: inset 0px 0px 25px indigo;
+        border-color:pink;
+        border-width: 2px 2px 2px;
+        border-button-color:blue;
+        border-style:double;
 }
