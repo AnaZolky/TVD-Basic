@@ -9,19 +9,19 @@ body{
       justify-conten: center;
 }
 button{
-        width: 12rem;
-        position: relative;
-        height: 4rem;
-        border: 3px solid indigo;
-        font-family: verdana, geneva, tahoma;
-        text-transform: uppercase;
-        background-color: transparent;
+        width:12rem;
+        position:relative;
+        height:4rem;
+        border:3px, solid, indigo;
+        font-family:verdana, geneva, tahoma;
+        text-transform:uppercase;
+        background-color:transparent;
         color:black;
         transition: 2s;
-        border-radius: 15px;
-        font-size: 15px;
+        border-radius:15px;
+        font-size:15px;
         font-weight:bold;
-        cursor: pointer;
+        cursor:pointer;
 }
 button:hover{
               box-shadow: inset 0px 0px 25px indigo;
