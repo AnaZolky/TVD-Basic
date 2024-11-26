@@ -8,7 +8,7 @@ body{
       display: flex;
       justify-conten: center;
 }
-botton{
+button{
         width: 12rem;
         position: relative;
         height: 4rem;
